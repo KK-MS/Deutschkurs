@@ -82,6 +82,7 @@ Englisch:
 
 
 p6.
+
 |Deutsch |Englisch |
 |---|---|
 | 1) Betrachen |a|
