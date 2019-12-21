@@ -79,3 +79,30 @@ Englisch:
 | B. The four constitutional principles, 1. Democracy. 2. Statehood. 3. Rule of law. 4. The welfare state. | b |
 | C. State symbols. , 1. Anthems. 2. Flags. 3). Coat of arms.| c |
 | D. Remembrance and Remembrance. | d |
+
+
+p6.
+|Deutsch |Englisch |
+|---|---|
+|1) Betrachen |a|
+|2) überlegen |○|
+| 3) Bergrüßungsrunde. |○|
+| 4). stellen. |○|
+| 5). gehört. | s|
+| 6). Ergänzen. |○|
+| 7). Plakat. |○|
+| 8. Redemittel. |○|
+| 9). Rand. |○|
+
+p6.
+| German | English |
+| --- | --- |
+| 1) Consider | a |
+| 2) consider | ○ |
+| 3) Round of greeting. | ○ |
+| 4). put. | ○ |
+| 5). heard. | s |
+| 6). Complete. | ○ |
+| 7). Poster. | ○ |
+| 8. Speeches. | ○ |
+| 9). Edge. | ○ |
