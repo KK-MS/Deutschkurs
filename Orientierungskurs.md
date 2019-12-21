@@ -84,15 +84,15 @@ Englisch:
 p6.
 |Deutsch |Englisch |
 |---|---|
-|1) Betrachen |a|
-|2) überlegen |○|
-| 3) Bergrüßungsrunde. |○|
-| 4). stellen. |○|
+| 1) Betrachen |a|
+| 2) überlegen |a|
+| 3) Bergrüßungsrunde. |a|
+| 4). stellen. |a|
 | 5). gehört. | s|
-| 6). Ergänzen. |○|
-| 7). Plakat. |○|
-| 8. Redemittel. |○|
-| 9). Rand. |○|
+| 6). Ergänzen. |s|
+| 7). Plakat. |a|
+| 8. Redemittel. |a|
+| 9). Rand. |a|
 
 p6.
 | German | English |
