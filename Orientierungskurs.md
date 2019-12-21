@@ -23,6 +23,18 @@ p4
 12. Verfassungsgemäß. Verfassungsorgane. 
 13. Parteien. 
 
+14. Gesellschaftliche.
+15. Teilhabe.
+16. Beteiligung.
+17. Wahlen.
+18. mitwirken. 
+19. Geschicte.
+20. Verantwortung.
+21. Verbrechen.
+22. Widerstand.
+23. Vereintes. 
+
+24. Herausforderungen.
 
 Englisch:
 
@@ -39,3 +51,17 @@ Englisch:
 11. Citizens.
 12. Constitutionally. Constitutional Organs. 
 13. Parties.
+
+
+14. Social.
+15. Participation.
+16. Participation.
+17th elections.
+18. Contribute.
+19. History.
+20. Responsibility.
+21. Crime.
+22. Resistance.
+23. United.
+
+24. Challenges.
