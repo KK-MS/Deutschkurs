@@ -20,7 +20,7 @@ p4
 9. Aufgaben.
 10. Pflichten. 
 11. Bürger.
-12. Verfassungsgemäß.
+12. Verfassungsgemäß. Verfassungsorgane. 
 13. Parteien. 
 
 
@@ -37,5 +37,5 @@ Englisch:
 9. Tasks.
 10. Obligations.
 11. Citizens.
-12. Constitutionally.
+12. Constitutionally. Constitutional Organs. 
 13. Parties.
