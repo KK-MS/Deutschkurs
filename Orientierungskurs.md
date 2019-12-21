@@ -96,6 +96,7 @@ p6.
 | 9). Rand. |a|
 
 p6.
+
 | German | English |
 | --- | --- |
 | 1) Consider | a |
@@ -107,3 +108,35 @@ p6.
 | 7). Poster. | ○ |
 | 8. Speeches. | ○ |
 | 9). Edge. | ○ |
+
+p7.
+
+|Deutsch |Englisch |
+|---|---|
+| 1) geblättert. |a|
+| 2) neugierig. |○|
+| 3) Manche. |○|
+| 4). legen |○|
+| 5). skaliert. | s|
+| 6). Zuwanderer. |○|
+| 7). Kenntnisse |○|
+| 8. Einbürgerung. |○|
+| 9). Nachweisen |○|
+| A). Sie haben jetzt kurz durch das Buch geblättert. | s|
+| B). Notieren Sie wieder interessante Fragen |s|
+| C). Lesen Sie als Beispiel die Testfrage 235.| ○|
+
+| German | English |
+| --- | --- |
+| 1) scrolled. | A |
+| 2) curious. | ○ |
+| 3) Some. | ○ |
+| 4). place | ○ |
+| 5). scaled. | s |
+| 6). Immigrant. | ○ |
+| 7). Knowledge | ○ |
+| 8. Naturalization. | ○ |
+| 9). Evidence | ○ |
+| A). You have now browsed through the book briefly. | s |
+| B). Write down interesting questions again | s |
+| C). Read test question 235 as an example ○ |
