@@ -67,7 +67,7 @@ Englisch:
 23. United.
 
 24. Challenges.
-
+| Deutsch | Englisch|
 | A. Die Würde des Menschen ist unantastbar. | a|
 | B. Die vier Verfassungsprinzipen, 1. Demokratie. 2. Bundesstaatlichkeit. 3. Rechtstaatlichkeit. 4. Sozialstaatlichkeit. | b|
 | C. Staatssymbole. | c |
