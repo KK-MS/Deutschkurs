@@ -56,7 +56,7 @@ Englisch:
 14. Social.
 15. Participation.
 16. Participation.
-17th elections.
+17. Elections.
 18. Contribute.
 19. History.
 20. Responsibility.
