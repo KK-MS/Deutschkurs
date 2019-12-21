@@ -7,12 +7,13 @@
 |   |   |   |   |   |
 
 p4
+
 | Deutsch|Englisch |
 |---|---|
-| 1. Demokratie ||
-| 2. Grundrechte ||
-| 3. Grundgesetz ||
-| 4. unantastbar ||
+| 1. Demokratie |a|
+| 2. Grundrechte |b|
+| 3. Grundgesetz |c|
+| 4. unantastbar |d|
 
 5. Freiheiten.  
 6. Grenzen.
