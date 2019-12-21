@@ -67,3 +67,13 @@ Englisch:
 23. United.
 
 24. Challenges.
+
+| A. Die Würde des Menschen ist unantastbar. | a|
+| B. Die vier Verfassungsprinzipen, 1. Demokratie. 2. Bundesstaatlichkeit. 3. Rechtstaatlichkeit. 4. Sozialstaatlichkeit. | b|
+| C. Staatssymbole. | c |
+| D. Erinnern und Gedenken. | d|
+
+| A. Human dignity is inviolable. | a |
+| B. The four constitutional principles, 1. Democracy. 2. Statehood. 3. Rule of law. 4. The welfare state. | b |
+| C. State symbols. | c |
+| D. Remembrance and Remembrance. | d |
