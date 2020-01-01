@@ -3,6 +3,7 @@ Modul 1.
 ## Politik_in_der_Demokratie.md in der Demokratie.
 
 p8.
+
 | Deutsch|Englisch |
 |---|---|
 | 1). Aussagen |a|
