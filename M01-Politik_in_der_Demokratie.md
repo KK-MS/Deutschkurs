@@ -13,3 +13,15 @@ p8.
 | 5). gegen |b|
 | 6). Krankenschwester |b|
 | 7). ärgere |b|
+
+
+| German | English |
+| --- | --- |
+| 1). Statements | a |
+| 2). Peace | b |
+| 3). War | b |
+| 4). dissatisfied | b |
+| 5). against | b |
+| 6). Nurse | b |
+| 7). annoyed | b |
+| 8th). Fundamental rights | b |
