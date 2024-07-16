@@ -1,4 +1,15 @@
 
+
+* Europameisterschaft 
+* Welt ;;
+* das Finale
+* 2024L In Berlin, Olympiastadion.
+* Capitan ?
+* makellos (flawless)
+* fachsimpeln
+* Orakel
+
+
 | DE| EN|
 |---|---|
 |zugeben| Admit|
