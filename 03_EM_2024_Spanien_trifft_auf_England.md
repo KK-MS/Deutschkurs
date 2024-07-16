@@ -81,6 +81,33 @@ more colonies in the English penalty area than the Spanish)
 * entweder es gibt einen Europameister der noch nicht Autofahren darf oder mit den Engländern ein Team das diesen Titel noch nie gewonnen hat
 (either there will be a European champion who is not yet allowed to drive a car or the English a team that has never won this title)
 
+
+* Zehn verschiedene Länder haben das Turnier gewonnen: Spanien hat viermal gewonnen, Deutschland hat drei Titel, Frankreich und Italien haben je zwei Titel, während Portugal, die Niederlande, Dänemark, die Sowjetunion, die Tschechoslowakei und Griechenland jeweils einen Titel haben. Spanien ist das einzige Land, das 2008 und 2012 aufeinanderfolgende Titel gewann.
+_(Ten different countries have won the tournament: Spain have won four times, Germany has three titles, France and Italy with two titles while Portugal, Netherlands, Denmark, Soviet Union, Czechoslovakia and Greece have one title each. Spain is the only country to win consecutive titles, in 2008 and 2012.)_ _2_
+
+
+|Year|	Winner|	Score	|Runner-up|
+|---|---|---|---|
+|2024|	Spain|	2-1|	England|
+|2021|	Italy|	1–1 (a.e.t.), (3–2 p)	|England|
+|2016|	Portugal|	1–0 aet	|France|
+|2012|	Spain|	4-0	|Italy|
+|2008|	Spain	|1-0	|Germany|
+|2004|	Greece|	1-0	|Portugal|
+|2000|	France|	2-1 asdet	|Italy|
+|1996|	Germany	|2-1 asdet|	Czechia|
+|1992|	Denmark|	2-0|	Germany|
+|1988|	Netherlands|	2-0	|Soviet Union|
+|1984|	France|	2-0	|Spain|
+|1980|	West Germany	|2-1	|Belgium|
+|1976|	Czechoslovakia|	2-2 aet / (5-3) ps|	West Germany|
+|1972|	West Germany|	3-0	|Soviet Union|
+|1968|	Italy	|1-1 aet / 2-0 replay	|Yugoslavia|
+|1964|	Spain	|2-1	|Soviet Union|
+|1960|	Soviet Union|	2-1 aet|	Yugoslavia|
+
 #### Reference
 * (EM 2024: Spanien trifft auf England im Finale in Berlin! Wer hat die größten Chancen auf den Titel?
 )[https://www.youtube.com/watch?v=JhQl2S6w5d0]
+* https://www.topendsports.com/events/soccer/uefa-euros/winners.htm
+* 
