@@ -1,13 +1,5 @@
 
 
-* Europameisterschaft 
-* Welt ;;
-* das Finale
-* 2024L In Berlin, Olympiastadion.
-* Capitan ?
-* makellos (flawless)
-* fachsimpeln
-* Orakel
 
 
 | DE| EN|
@@ -117,6 +109,23 @@ _(Ten different countries have won the tournament: Spain have won four times, Ge
 |1964|	Spain	|2-1	|Soviet Union|
 |1960|	Soviet Union|	2-1 aet|	Yugoslavia|
 
+* Europameisterschaft 
+* Welt ;;
+* das Finale
+* 2024L In Berlin, Olympiastadion.
+* Capitan ?
+* makellos (flawless)
+* fachsimpeln
+* Orakel
+
+Kraken Paul. Predicte.
+
+* Preposition
+Am Rathausplatz
+in der Iller stube
+zu hause
+* es war weit vom Abschuss auf das Tore
+  
 #### Reference
 * (EM 2024: Spanien trifft auf England im Finale in Berlin! Wer hat die größten Chancen auf den Titel?
 )[https://www.youtube.com/watch?v=JhQl2S6w5d0]
