@@ -1,4 +1,24 @@
 
+| DE| EN|
+|---|---|
+|zugeben| Admit|
+| überzeugt | convinced|
+| gerätselt | Puzzle/ Guessing|
+| gefachsimpelt | Talked shop / discussing|
+| den Sieg| the victory|
+|übrigens | by the way|
+|der petrischale der bakterien| the petri dish of bacteria|
+|  ein zähes Spiel | a tough game|
+|am Ende scheinen| in the end seem ..|
+| die Nase vor zu haben | to be ahead of the game|
+|wir sehen tatsächlich| We actually see|
+|  im Strafraum | in the penalty area|
+| das deutet darauf hin | This suggests|
+| mehr Tore fangen | score more goals|
+|torschütze | scorer / goal scorer|
+|steigen| climb / start|
+
+
 ### EM 2024: Spanien trifft auf England im Finale in Berlin! Wer hat die größten Chancen auf den Titel?
 
 * der Countdown zum großen emfale der
