@@ -125,7 +125,20 @@ Am Rathausplatz
 in der Iller stube
 zu hause
 * es war weit vom Abschuss auf das Tore
-  
+
+* Torwart: Goal keeper.
+* Stürmer: Sticker
+* Verteidiger: defender
+* nach dem (M N)
+* nach dir (F)
+* Entlang, beside...
+* da Tor:
+* Erstazt: substitue
+* mit dem
+* ohne den
+* zu .. gives direction
+* dribbelt: 
+
 #### Reference
 * (EM 2024: Spanien trifft auf England im Finale in Berlin! Wer hat die größten Chancen auf den Titel?
 )[https://www.youtube.com/watch?v=JhQl2S6w5d0]
